@@ -1,4 +1,6 @@
 <script lang="ts">
+  throw new Error("@migration task: Add data prop (https://github.com/sveltejs/kit/discussions/5774#discussioncomment-3292707)");
+
   import Artwork from '../../lib/components/art/Artwork.svelte';
   import Grid from '../../lib/components/art/Grid.svelte';
 
