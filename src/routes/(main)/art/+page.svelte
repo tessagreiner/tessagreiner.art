@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Artwork from '../../lib/components/art/Artwork.svelte';
-  import Grid from '../../lib/components/art/Grid.svelte';
+  import Artwork from '../../../lib/components/art/Artwork.svelte';
+  import Grid from '../../../lib/components/art/Grid.svelte';
 
   import type { PageData } from './$types';
 
